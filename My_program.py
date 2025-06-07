@@ -1,4 +1,6 @@
-
+"""
+example program from Code In Place Lesson on how to use VS Code program as Python IDE and then publish to GitHub
+"""
 MAX_NUMBER=50
 def even_number():
     for i in range(MAX_NUMBER):
